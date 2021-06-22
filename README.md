@@ -1,4 +1,4 @@
-# Basic Web Development Bootcamp
+# Basic Web Development Project
 Hi I made this project using pure <b><i>HTML & CSS</i></b>.
 <p>You can follow me on:</p>
 <ul>
